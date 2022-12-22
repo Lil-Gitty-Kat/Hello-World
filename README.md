@@ -4,4 +4,4 @@ Hello World repository and learn GitHub's pull request workflow, a popular way t
 
 ### ~~Let's get-it Let's go~~
  ## ~~Let's git-it Let's go~~
-# :green_heart::purple_heart::zap: **Let's git-it Let's geaux** :zap::green_heart::purple_heart:
+## :green_heart::purple_heart::zap: **Let's git-it Let's geaux** :zap::green_heart::purple_heart:
